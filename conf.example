@@ -1,0 +1,5 @@
+const char *ssid = "";
+const char *password = "";
+String requestUrl = "https://corona.lmao.ninja/countries/";
+int updateInterval = 30000;
+int debounce = 1000;
